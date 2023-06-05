@@ -1,6 +1,6 @@
 # MarketMakingGame
 
-Work in progress python version of: https://github.com/0xhashbrown/OMakeMeAMarket
+Work in progress python version of: https://github.com/sameerlal/OMakeMeAMarket
 
 Update (1Aug22): There is only one baseline strategy currently. 
 
